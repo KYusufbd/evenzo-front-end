@@ -99,3 +99,7 @@
   --depth: 1;
   --noise: 0;
 }
+
+.navbar .active {
+  @apply text-primary-content bg-primary;
+}
