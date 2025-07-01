@@ -1,4 +1,4 @@
-@import 'tailwindcss';
+@import "tailwindcss";
 @plugin "daisyui";
 @plugin "daisyui/theme" {
   name: "evenzo";
@@ -57,26 +57,26 @@
   color-scheme: dark;
 
   --color-base-100: #111111; /* Very dark background */
-  --color-base-200: #1A1A1A;
-  --color-base-300: #2A2A2A;
+  --color-base-200: #1a1a1a;
+  --color-base-300: #2a2a2a;
   --color-base-content: #f3f3f3;
 
-  --color-primary: #2FF3E0; /* Aqua Blue */
+  --color-primary: #2ff3e0; /* Aqua Blue */
   --color-primary-content: #111111;
 
-  --color-secondary: #F8D210; /* Bright Yellow */
+  --color-secondary: #f8d210; /* Bright Yellow */
   --color-secondary-content: #111111;
 
-  --color-accent: #FA26A0; /* Pink Magenta */
+  --color-accent: #fa26a0; /* Pink Magenta */
   --color-accent-content: #ffffff;
 
-  --color-neutral: #F51720; /* Strong Red */
+  --color-neutral: #f51720; /* Strong Red */
   --color-neutral-content: #ffffff;
 
-  --color-info: #2FF3E0;
-  --color-success: #F8D210;
-  --color-warning: #FA26A0;
-  --color-error: #F51720;
+  --color-info: #2ff3e0;
+  --color-success: #f8d210;
+  --color-warning: #fa26a0;
+  --color-error: #f51720;
 
   --color-info-content: #111111;
   --color-success-content: #111111;
