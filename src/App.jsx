@@ -7,6 +7,7 @@ function App() {
     <div className="flex flex-col items-center min-h-screen bg-base-100">
       <Navbar />
       <Outlet />
+      <Footer />
     </div>
   );
 }
